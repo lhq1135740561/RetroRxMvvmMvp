@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyRetrofitRxLMvp</string>
+    <string name="hello">图片</string>
+    <string name="weather_city">深圳</string>
+
+    <string name="news_title">广州国际瓦业展新闻发布会于羊城吹响号角</string>
+    <string name="news_summary">近日，2016第六届中国(广州)国际瓦业交易会暨制瓦工业展•亚太建筑科技论坛新闻发布会新闻发布会在广州军区珠江宾馆隆重召</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">sign in</string>
+    <string name="action_sign_in_short">sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="login_clear">clear</string>
+    <string name="login_weather">weather</string>
+</resources>
